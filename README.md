@@ -95,8 +95,7 @@ Certifique-se de que todos os critérios de aceite são atendidos durante o dese
 
 ## Autor
 
-Desenvolvido por [Seu Nome]
-
+Desenvolvido por Rafael Domingues
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
